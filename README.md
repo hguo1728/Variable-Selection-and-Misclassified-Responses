@@ -3,4 +3,3 @@ Addressing both variable selection and misclassified responses with parametric a
 
 Submitted to *Bernoulli*.
 
-TO DO

@@ -117,7 +117,7 @@ def param(args):
         args.mu_val = mu_val
 
             
-        gammas_lambdas = np.linspace(lambd_old, max(0.05, lambd_old), 10)
+        gammas_lambdas = np.linspace(lambd_old, max(0.05, lambd_old), 5)
         gammas_num = gammas_lambdas.shape[0]
 
         a0_ = np.zeros((gammas_num, n))

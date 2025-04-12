@@ -40,9 +40,10 @@ def APF(args, intercept, beta_init=None, lambd_init=None, zero_init=False):
 
     # radius: projection onto the l2-ball
     if args.R is None:
-        R = np.linalg.norm(beta_init, ord=2)
+        R = 2 * np.linalg.norm(beta_init, ord=2)
     else:
         R = args.R
+    
     
     # ---------------- calculate lambdas -----------------
 

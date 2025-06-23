@@ -27,6 +27,13 @@ This script serves as the **entry point** for running the proposed method. It pe
 
 ---
 
+### `README.pdf`
+
+This PDF file contains the implementation details of the code.
+
+
+---
+
 ### `example.ipynb`
 
 This Jupyter notebook includes:

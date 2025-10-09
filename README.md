@@ -1,6 +1,7 @@
 ## Project Structure and Description
 
 *"Addressing both variable selection and misclassified responses with parametric and semiparametric methods"*, Hui Guo, Grace Y. Yi, and Boyu Wang. Accepted to *Bernoulli*.
+
 https://www.bernoullisociety.org/publications/bernoulli-journal/bernoulli-journal-papers
 
 

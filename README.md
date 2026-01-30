@@ -2,8 +2,7 @@
 
 *"Addressing both variable selection and misclassified responses with parametric and semiparametric methods"*, Hui Guo, Grace Y. Yi, and Boyu Wang. Accepted by *Bernoulli*.
 
-https://www.bernoullisociety.org/publications/bernoulli-journal/bernoulli-journal-papers
-
+https://projecteuclid.org/journals/bernoulli/volume-32/issue-2/Addressing-both-variable-selection-and-misclassified-responses-with-parametric-and/10.3150/25-BEJ1907.short
 
 This repository contains the implementation and example usage of the proposed method. The structure is as follows:
 
